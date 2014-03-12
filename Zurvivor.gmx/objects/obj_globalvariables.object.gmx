@@ -60,6 +60,8 @@ global.noBoots = true;
 global.noSandals = true;
 global.noFeet = true;
 global.noCleats = true;
+//other crap
+global.boss_start = false;
 
 </string>
           </argument>

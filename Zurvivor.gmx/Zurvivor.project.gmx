@@ -38,6 +38,13 @@
       <sprite>sprites\spr_beavteeth</sprite>
     </sprites>
     <sprite>sprites\sprite27</sprite>
+    <sprite>sprites\sprite28</sprite>
+    <sprite>sprites\sprite29</sprite>
+    <sprite>sprites\sprite30</sprite>
+    <sprite>sprites\blank</sprite>
+    <sprite>sprites\blank_mask</sprite>
+    <sprite>sprites\spr_switch</sprite>
+    <sprite>sprites\spr_switchon</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -64,10 +71,17 @@
     <object>objects\obj_wall</object>
     <object>objects\obj_HUD</object>
     <object>objects\obj_globalvariables</object>
+    <object>objects\obj_door_vert</object>
+    <object>objects\obj_door_hor</object>
+    <object>objects\obj_boss_door_vert</object>
+    <object>objects\obj_boss_door_hor</object>
+    <object>objects\obj_door_trap</object>
+    <object>objects\object26</object>
+    <object>objects\obj_switch</object>
   </objects>
   <rooms name="rooms">
-    <room>rooms\room0</room>
     <room>rooms\room1</room>
+    <room>rooms\room0</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
